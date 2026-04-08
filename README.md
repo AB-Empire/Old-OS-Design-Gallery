@@ -1,2 +1,3 @@
 # Old-SO-Design-Gallery
-Old (2023 and older) SO designs by https://github.com/akai-keisanki
+
+This repository contains recreational old (2023 and older) OS designs by [akai-keisanki](https://github.com/akai-keisanki) in PNG format.
